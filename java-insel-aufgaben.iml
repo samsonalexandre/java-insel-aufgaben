@@ -4,6 +4,29 @@
     <exclude-output />
     <content url="file://$MODULE_DIR$">
       <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/kap01_grundlagen" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/kap02_imperativ" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/kap03_klassen_objekte" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/kap04_arrays" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/kap05_strings" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/kap06_eigene_klassen" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/kap07_geschachtelte_typen" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/kap08_exceptions" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/kap09_lambda_funktional" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/kap10_java_bibliothek" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/kap11_strings_fortgeschritten" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/kap12_mathematik" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/kap13_zeit_datum" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/kap14_threads" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/kap15_algorithmen_datenstrukturen" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/kap16_streams_api" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/kap17_dateizugriff" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/kap18_io_streams" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/kap19_netzwerk" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/kap20_xml_json" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/kap21_jdbc_datenbanken" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/kap22_betriebssystem" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/kap23_reflection_annotations" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
