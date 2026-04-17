@@ -1,41 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fa44a26f-9258-4909-a96d-ac888b6075b8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/kap02_imperativ/FairShare.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/kap02_imperativ/SvgCircle1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/kap02_imperativ/SvgCircle2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/kap02_imperativ/SvgCircle3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/kap02_imperativ/SvgCircleWithConsoleCoordinates.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/kap02_imperativ/SvgCircleWithRandomRadius.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/kap02_imperativ/SvgCircleWithVariables1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/kap02_imperativ/SvgCircleWithVariables2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/kap02_imperativ/SvgCircleWithVariables3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/kap01_grundlagen/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/kap02_imperativ/Bildschirmausgaben.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/kap02_imperativ/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/kap02_imperativ/VariablenUndDatentypen.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/kap03_klassen_objekte/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/kap04_arrays/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/kap05_strings/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/kap06_eigene_klassen/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/kap07_geschachtelte_typen/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/kap08_exceptions/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/kap09_lambda_funktional/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/kap10_java_bibliothek/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/kap11_strings_fortgeschritten/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/kap12_mathematik/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/kap13_zeit_datum/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/kap14_threads/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/kap15_algorithmen_datenstrukturen/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/kap16_streams_api/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/kap17_dateizugriff/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/kap18_io_streams/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/kap19_netzwerk/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/kap20_xml_json/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/kap21_jdbc_datenbanken/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/kap22_betriebssystem/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/kap23_reflection_annotations/README.md" beforeDir="false" />
+    <list default="true" id="fa44a26f-9258-4909-a96d-ac888b6075b8" name="Changes" comment="Arbeite an Kapitel 2">
+      <change afterPath="$PROJECT_DIR$/src/kap01_grundlagen/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/kap02_imperativ/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/kap03_klassen_objekte/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/kap04_arrays/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/kap05_strings/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/kap06_eigene_klassen/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/kap07_geschachtelte_typen/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/kap08_exceptions/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/kap09_lambda_funktional/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/kap10_java_bibliothek/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/kap11_strings_fortgeschritten/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/kap12_mathematik/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/kap13_zeit_datum/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/kap14_threads/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/kap15_algorithmen_datenstrukturen/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/kap16_streams_api/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/kap17_dateizugriff/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/kap18_io_streams/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/kap19_netzwerk/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/kap20_xml_json/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/kap21_jdbc_datenbanken/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/kap22_betriebssystem/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/kap23_reflection_annotations/.gitkeep" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,6 +60,7 @@
 }</component>
   <component name="ProjectId" id="3CQYhttJD4lmUu25CRSFmlhUNcI" />
   <component name="ProjectLevelVcsManager">
+    <OptionsSetting value="false" id="Update" />
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
@@ -91,6 +82,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/dev/java/java-insel-aufgaben/src/kap23_reflection_annotations",
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
@@ -114,6 +106,27 @@
       <option name="presentableId" value="Default" />
       <updated>1776319383240</updated>
     </task>
+    <task id="LOCAL-00001" summary="Arbeite an Kapitel 2">
+      <option name="closed" value="true" />
+      <created>1776372034510</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1776372034510</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Arbeite an Kapitel 2">
+      <option name="closed" value="true" />
+      <created>1776372141459</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1776372141459</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Arbeite an Kapitel 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Arbeite an Kapitel 2" />
   </component>
 </project>
