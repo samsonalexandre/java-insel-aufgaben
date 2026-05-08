@@ -1,7 +1,7 @@
 //2.2.4 - 2.7
 import java.util.Locale;
 
-public class SvgCircleWithRandomRadius {
+public class Listing_2_8_SvgCircleWithRandomRadius {
     public static void main(String[] args) {
 
         int x = 100;

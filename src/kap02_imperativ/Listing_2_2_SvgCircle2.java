@@ -1,5 +1,5 @@
 //2.1.2 - 2.2
-public class SvgCircle2 {
+public class Listing_2_2_SvgCircle2 {
     public static void main(String[] args) {
 
         System.out.println("<svg height = '400' width = '1000'>");

@@ -1,5 +1,5 @@
 //2.3.2 - 2.9
-public class FairShare {
+public class Listing_2_9_FairShare {
     public static void main(String[] args) {
 
         System.out.println("Number of bottles in total?");

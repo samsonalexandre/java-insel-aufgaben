@@ -1,7 +1,7 @@
 //2.2.6 - 2.8
 import java.util.Locale;
 
-public class SvgCircleWithConsoleCoordinates {
+public class Listing_2_7_SvgCircleWithConsoleCoordinates {
     public static void main(String[] args) {
 
         int x = new java.util.Scanner(System.in).nextInt();

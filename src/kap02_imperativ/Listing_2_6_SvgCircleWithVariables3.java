@@ -1,5 +1,5 @@
 //2.2.1 - 2.6
-public class SvgCircleWithVariables3 {
+public class Listing_2_6_SvgCircleWithVariables3 {
     public static void main(String[] args) {
 
         int x = 100;
